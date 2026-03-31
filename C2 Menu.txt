@@ -1,0 +1,560 @@
+
+Donuts
+150
+0
+Dessert
+
+Icing Cupcake
+170
+0
+Dessert
+
+Chocolate Brownie
+250
+0
+Dessert
+
+Cream Roll
+160
+0
+Dessert
+
+Chocolate Eclair
+170
+0
+Dessert
+
+Chocolate Chip Cake Slice
+280
+0
+Dessert
+
+Pastry
+230
+0
+Dessert
+
+Mini Pizza
+240
+0
+Pizza
+
+Hot Dog Cheese Burger
+280
+0
+Burger
+
+Chicken Tikka Sandwich
+230
+0
+Sandwich
+
+Chicken Sandwich
+210
+0
+Sandwich
+
+Brownie
+220
+0
+Dessert
+
+Chicken Patties
+150
+0
+Snacks
+
+Chicken Cheese Patties
+170
+0
+Snacks
+
+Chicken Zinger Burger
+320
+0
+Burger
+
+Chicken Cheese Croissant Sandwich
+250
+0
+Sandwich
+
+Chicken Shashlik Stick
+200
+0
+Snacks
+
+Chicken Shawarma
+240
+0
+Shawarma
+
+Filled Donut
+240
+0
+Dessert
+
+Cookies
+180
+0
+Dessert
+
+Afghani Burger Double
+300
+0
+Burger
+
+Afghani Burger Single
+250
+0
+Burger
+
+Afghani Burger Plain
+200
+0
+Burger
+
+Banana Bread
+180
+0
+Dessert
+
+Green Tea
+50
+0
+Drinks
+
+French Fries OPPA
+250
+0
+Fries
+
+Mini Donut
+130
+0
+Dessert
+
+Nestea
+110
+0
+Drinks
+
+Coffee
+150
+0
+Drinks
+
+Tea Single Tea Bag
+60
+0
+Drinks
+
+Tea Double Tea Bag
+70
+0
+Drinks
+
+Nes Ice Tea
+150
+0
+Drinks
+
+Hot Chocolate
+240
+0
+Drinks
+
+Chocolate Mousse Large
+220
+0
+Dessert
+
+Panini Sandwich
+320
+0
+Sandwich
+
+Chicken Bread
+190
+0
+Snacks
+
+Pizza Roll
+190
+0
+Snacks
+
+Fried Sandwich
+240
+0
+Sandwich
+
+Paratha
+60
+0
+Breakfast
+
+Paratha Cheese
+120
+0
+Breakfast
+
+Aloo Paratha
+140
+0
+Breakfast
+
+Aloo Paratha Cheese
+210
+0
+Breakfast
+
+Chicken Paratha
+200
+0
+Breakfast
+
+Chicken Roll Paratha
+250
+0
+Breakfast
+
+Chicken Cheese Roll Paratha
+270
+0
+Breakfast
+
+Lacha Paratha
+100
+0
+Breakfast
+
+Fried Omelette
+60
+0
+Breakfast
+
+Omelette Cheese
+120
+0
+Breakfast
+
+Bread Slice
+30
+0
+Breakfast
+
+Small Fries
+130
+0
+Fries
+
+Large Fries
+240
+0
+Fries
+
+Pakora Half
+150
+0
+Snacks
+
+Chicken Tikka Piece
+350
+0
+BBQ
+
+Chicken Malai Boti 8 Pieces
+500
+0
+BBQ
+
+Chicken Malai Boti 5 Pieces
+380
+0
+BBQ
+
+Chicken Seekh Kabab 4 Pieces
+350
+0
+BBQ
+
+Samosa
+50
+0
+Snacks
+
+Roll
+70
+0
+Snacks
+
+Chicken Roll Paratha Spicy
+260
+0
+RollParatha
+
+Chicken Mayo Roll Paratha
+250
+0
+RollParatha
+
+Chicken Jumbo Roll Paratha
+300
+0
+RollParatha
+
+Chicken Jumbo Cheese Roll Paratha
+400
+0
+RollParatha
+
+Chicken Malai Boti Roll Paratha
+350
+0
+RollParatha
+
+Chicken Seekh Kabab Roll Paratha
+260
+0
+RollParatha
+
+Chicken Tikka Boti Plate
+350
+0
+BBQ
+
+Chicken Tikka Masala Boti Plate
+450
+0
+BBQ
+
+Chicken Achari Boti Plate
+380
+0
+BBQ
+
+Chicken Reshmi Kebab
+400
+0
+BBQ
+
+Chicken Bala Leg Piece
+180
+0
+BBQ
+
+Tikka Sandwich 2 Pieces
+150
+0
+Sandwich
+
+Tikka Sandwich 4 Pieces
+300
+0
+Sandwich
+
+Tikka Burger
+350
+0
+Burger
+
+Egg Shami Burger
+180
+0
+Burger
+
+Shami Burger
+150
+0
+Burger
+
+Chicken Cheese Burger
+340
+0
+Burger
+
+Grilled Chicken Burger
+420
+0
+Burger
+
+Chapli Kabab Burger
+300
+0
+Burger
+
+Chicken Cheese Shawarma
+280
+0
+Shawarma
+
+Zinger Roll Paratha
+320
+0
+RollParatha
+
+Zinger Roll Paratha Cheese
+370
+0
+RollParatha
+
+Chicken Mayo Sandwich
+200
+0
+Sandwich
+
+Club Sandwich
+350
+0
+Sandwich
+
+Chicken Tikka Pizza Small
+400
+0
+Pizza
+
+Chicken Tikka Pizza Medium
+800
+0
+Pizza
+
+Chicken Tikka Pizza Large
+1200
+0
+Pizza
+
+C2 Special Pizza Small
+500
+0
+Pizza
+
+C2 Special Pizza Medium
+1000
+0
+Pizza
+
+C2 Special Pizza Large
+1400
+0
+Pizza
+
+Apple Banana Shake
+200
+0
+Shakes
+
+Banana Oreo Shake
+210
+0
+Shakes
+
+Date Shake
+220
+0
+Shakes
+
+Mango Shake
+200
+0
+Shakes
+
+Milo Shake
+200
+0
+Shakes
+
+Cold Coffee Shake
+200
+0
+Shakes
+
+Chocolate Shake
+200
+0
+Shakes
+
+Oreo Shake
+200
+0
+Shakes
+
+Apple Juice
+280
+0
+Juices
+
+Pineapple Juice
+270
+0
+Juices
+
+Pomegranate Juice
+450
+0
+Juices
+
+Carrot Juice
+150
+0
+Juices
+
+Peach Juice
+200
+0
+Juices
+
+Lemon Mint Juice
+150
+0
+Juices
+
+Orange Juice
+200
+0
+Juices
+
+Tikka Pizza Small
+450
+0
+Pizza
+
+Tikka Pizza Medium
+870
+0
+Pizza
+
+Tikka Pizza Large
+1300
+0
+Pizza
+
+Tikka Pizza XL
+1500
+0
+Pizza
+
+Loaded Fries
+370
+0
+Fries
+
+Tortilla Wrap
+350
+0
+Wraps
+
+C2 Special Pasta
+430
+0
+Pasta
+
+Creamy Chicken Pasta
+400
+0
+Pasta
+
+Chicken Wrap
+250
+0
+Wraps
