@@ -1,4 +1,5 @@
 🍴 NUST MenuHub: C++ File-Based Management System
+
 NUST MenuHub is a centralized dining management application built to handle the menus and pricing for the 9 primary cafes across the NUST campus. This project focuses on robust File I/O, data persistence, and building a clean, user-centric Command Line Interface (CLI).
 
 📂 Repository Breakdown
@@ -27,7 +28,19 @@ Formatting: The CLI outputs a clean, tabular view of the menu for the student.
 DOS
 g++ focp3.cpp -o MenuHub
 Launch:
+🚀 Installation & Setup
+To run the project locally via CMD, follow these steps:
 
+Clone the Repository:
+
+DOS
+git clone https://github.com/abdullahrauf245-hue/Nust-MenuHub.git
+cd Nust-MenuHub
+Verify Files: Ensure all .txt files are in the same directory as the .cpp files.
+Compile:
+
+DOS
+g++ focp3.cpp -o MenuHub
 DOS
 MenuHub.exe
 🎓 Academic Context
