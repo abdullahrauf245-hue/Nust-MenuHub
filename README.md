@@ -7,6 +7,13 @@ focp3.cpp: The main driver of the application. It handles the user interface, ca
 
 Logic.cpp: Contains the backend functions, including the file-parsing algorithms and stream management.
 
+📜 Database Layer (.txt)
+The system uses flat-file databases to ensure data persists even after the program closes. The following files act as the "Source of Truth" for the app:
+
+Hostel & Academic Cafes: C1.txt, C2 Menu.txt, C3 Menu.txt, C4 menu.txt, S3H Cafe.txt
+
+Specialty Lounges: Coffee Lounge Menu.txt, Inno.txt, Retro Menu.txt, Nice Menu.txt
+
 
 
 DOS
