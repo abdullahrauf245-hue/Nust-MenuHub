@@ -14,8 +14,16 @@ Hostel & Academic Cafes: C1.txt, C2 Menu.txt, C3 Menu.txt, C4 menu.txt, S3H Cafe
 
 Specialty Lounges: Coffee Lounge Menu.txt, Inno.txt, Retro Menu.txt, Nice Menu.txt
 
+🏗️ Technical Architecture
+The system bridges the gap between static text files and dynamic user interaction using the <fstream> library:
 
+Selection: The user chooses a cafe from the main menu.
 
+Streaming: The program establishes an ifstream connection to the corresponding .txt file.
+
+Parsing: The logic reads structured data (Item Name | Price) into memory.
+
+Formatting: The CLI outputs a clean, tabular view of the menu for the student.
 DOS
 g++ focp3.cpp -o MenuHub
 Launch:
