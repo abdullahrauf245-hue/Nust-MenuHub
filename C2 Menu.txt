@@ -1,4 +1,3 @@
-
 Donuts
 150
 0
@@ -220,7 +219,7 @@ Chicken Roll Paratha
 Breakfast
 
 Chicken Cheese Roll Paratha
-270
+300
 0
 Breakfast
 
@@ -290,7 +289,7 @@ Roll
 Snacks
 
 Chicken Roll Paratha Spicy
-260
+250
 0
 RollParatha
 
@@ -300,22 +299,22 @@ Chicken Mayo Roll Paratha
 RollParatha
 
 Chicken Jumbo Roll Paratha
-300
-0
-RollParatha
-
-Chicken Jumbo Cheese Roll Paratha
 400
 0
 RollParatha
 
+Chicken Jumbo Cheese Roll Paratha
+450
+0
+RollParatha
+
 Chicken Malai Boti Roll Paratha
-350
+300
 0
 RollParatha
 
 Chicken Seekh Kabab Roll Paratha
-260
+200
 0
 RollParatha
 
@@ -410,27 +409,27 @@ Club Sandwich
 Sandwich
 
 Chicken Tikka Pizza Small
-400
+450
 0
 Pizza
 
 Chicken Tikka Pizza Medium
-800
+870
 0
 Pizza
 
 Chicken Tikka Pizza Large
-1200
+1300
 0
 Pizza
 
 C2 Special Pizza Small
-500
+450
 0
 Pizza
 
 C2 Special Pizza Medium
-1000
+870
 0
 Pizza
 
@@ -558,3 +557,138 @@ Chicken Wrap
 250
 0
 Wraps
+
+Chicken Qorma
+280
+0
+Lunch
+
+Chicken Biryani
+280
+0
+Lunch
+
+Chicken Pulao
+280
+0
+Lunch
+
+W/O Chicken Biryani
+200
+0
+Lunch
+
+Kabuli Pulao
+320
+0
+Lunch
+
+Chicken Fried Rice
+300
+0
+Lunch
+
+Dal / Vegetable / Channa
+150
+0
+Lunch
+
+Chicken Haleem
+200
+0
+Lunch
+
+Aloo Qeema
+280
+0
+Lunch
+
+Boneless Handi
+320
+0
+Lunch
+
+Chicken Karahi (850gm)
+1600
+0
+Lunch
+
+Chicken Karahi (400gm)
+900
+0
+Lunch
+
+Aloo Chaat
+150
+0
+Chaats
+
+Dahi Bhallay
+160
+0
+Chaats
+
+Lahori Fruit Chaat
+200
+0
+Chaats
+
+Russian Salad
+220
+0
+Chaats
+
+Samosa Chaat (Small)
+110
+0
+Chaats
+
+Samosa Chaat (Large)
+160
+0
+Chaats
+
+Chicken Tikka Chest Piece
+180
+0
+BBQ
+
+Chicken Tikka Leg Piece
+180
+0
+BBQ
+
+Chapati Roll Paratha
+250
+0
+RollParatha
+
+Chicken Malai Boti Cheese Roll Paratha
+350
+0
+RollParatha
+
+Chicken Malai Boti Jambo Roll Paratha
+450
+0
+RollParatha
+
+Chicken Malai Boti Jambo Cheese Roll Paratha
+500
+0
+RollParatha
+
+Chicken Seekh Kabab Cheese Roll Paratha
+250
+0
+RollParatha
+
+Chicken Seekh Kabab Jambo Roll Paratha
+350
+0
+RollParatha
+
+Chicken Seekh Kabab Jambo Cheese Roll Paratha
+400
+0
+RollParatha
